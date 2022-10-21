@@ -4,6 +4,7 @@ author:
   - Nathaniel Grimes ^[Instructor for crash course]
   - Renae Marshall ^[Instructor for crash course]
   - Allison Horst ^[Original creator of content]
+  - Gilbert 
 date: "2022-10-18"
 output: html_document
 ---
